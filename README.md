@@ -25,7 +25,7 @@ The dataset used for this analysis was sourced from Kaggle.com. It contains data
 1. **Data Preprocessing**: Cleaning the dataset, handling missing values, and ensuring data consistency.
 2. **Exploratory Data Analysis (EDA)**: Creating visualizations such as bar plots, line graphs, and heatmaps to understand the distribution and trends of mental health disorder prevalence.
 3. **Statistical Analysis**: Calculating summary statistics, correlations between disorders, and performing hypothesis tests if applicable.
-4. **Data Visualization**: Using tools like Matplotlib, Seaborn, or Plotly to create insightful visualizations that effectively convey the analysis results.
+4. **Data Visualization**: Using tools like Matplotlib, Seaborn, to create insightful visualizations that effectively convey the analysis results.
 5. **Interpretation and Insights**: Summarizing key findings, drawing conclusions, and providing actionable insights based on the analysis.
 
 
