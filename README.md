@@ -1,30 +1,22 @@
-# DataAnalyst_Portfolio
-Analytics Portfolio
-# Data Analyst Portfolio: Analyzing Mental Health Disorders Dataset
+# Data Analyst Portfolio
 
-Welcome to my Data Analyst portfolio project! In this repository, I'll be sharing my analysis of a dataset that contains information about various mental health disorders. The dataset includes the following columns:
+Welcome to my Data Analyst Portfolio GitHub repository! Here, you'll find a collection of projects that showcase my skills in data analysis, cleaning, exploration, and visualization. Each project highlights different aspects of my journey as a data analyst.
 
-- Index: Unique identifier for each record.
-- Entity: Name of the entity (e.g., country, region) the data pertains to.
-- Code: Code associated with the entity.
-- Year: Year of the data.
-- Schizophrenia (%): Prevalence of Schizophrenia.
-- Bipolar Disorder (%): Prevalence of Bipolar Disorder.
-- Eating Disorders (%): Prevalence of Eating Disorders.
-- Anxiety Disorders (%): Prevalence of Anxiety Disorders.
-- Drug Use Disorders (%): Prevalence of Drug Use Disorders.
-- Depression (%): Prevalence of Depression.
-- Alcohol Use Disorders (%): Prevalence of Alcohol Use Disorders.
+## Projects Included
 
-## Goals of the Analysis
+### 1. Data Cleaning using SQL
+In this project, I demonstrate my proficiency in data cleaning using SQL. By employing various SQL techniques, I've transformed raw, messy data into structured and meaningful datasets that are ready for analysis.
 
-The primary goals of this analysis are to:
-- Gain insights into the prevalence of different mental health disorders over time and across different entities.
-- Identify trends and patterns in mental health disorder prevalence.
-- Explore potential relationships between different disorders.
-- Provide visualizations and summaries to effectively communicate the findings.
+### 2. Data Exploration using SQL
+Explore my insights into data exploration using SQL. I delve into complex datasets, extracting valuable trends and patterns through SQL queries, and present them visually to enhance understanding.
 
-## Data Source
+### 3. Descriptive Statistics, Data Visualisation and Correlation Analyses using Python
+Discover how I utilize Python to perform descriptive statistics and correlation analyses on diverse datasets. I showcase my ability to extract meaningful insights and relationships from the data, enhancing decision-making.
+
+### 4. Power BI Projects for Data Visualizations and Dashboards
+Dive into my Power BI projects where I've created engaging and insightful data visualizations and dashboards. These projects highlight my ability to transform raw data into interactive reports, offering valuable insights at a glance.
+
+## Folder Structure
 
 The dataset used for this analysis was sourced from Kaggle.com. It contains data collected from various sources and provides a comprehensive overview of mental health disorder prevalence across different regions and years.
 
@@ -35,6 +27,9 @@ The dataset used for this analysis was sourced from Kaggle.com. It contains data
 3. **Statistical Analysis**: Calculating summary statistics, correlations between disorders, and performing hypothesis tests if applicable.
 4. **Data Visualization**: Using tools like Matplotlib, Seaborn, or Plotly to create insightful visualizations that effectively convey the analysis results.
 5. **Interpretation and Insights**: Summarizing key findings, drawing conclusions, and providing actionable insights based on the analysis.
+
+
+Thank you for visiting my portfolio repository!
 
 ## Repository Structure
 
